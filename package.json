@@ -1,0 +1,23 @@
+{
+  "name": "hemal",
+  "version": "1.0.0",
+  "description": "very useful",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "hemal",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^18.0.1",
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql": "^2.18.1",
+    "react": "^18.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
